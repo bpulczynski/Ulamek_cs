@@ -1,0 +1,10 @@
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekTest\obj\Debug\UlamekTest.csprojAssemblyReference.cache
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekTest\obj\Debug\UlamekTest.csproj.CoreCompileInputs.cache
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekTest\bin\Debug\UlamekTest.exe.config
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekTest\bin\Debug\UlamekTest.exe
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekTest\bin\Debug\UlamekTest.pdb
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekTest\bin\Debug\UlamekLib.dll
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekTest\bin\Debug\UlamekLib.pdb
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekTest\obj\Debug\UlamekTest.csproj.CopyComplete
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekTest\obj\Debug\UlamekTest.exe
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekTest\obj\Debug\UlamekTest.pdb

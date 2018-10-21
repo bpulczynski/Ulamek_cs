@@ -1,0 +1,6 @@
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekLib\obj\Debug\UlamekLib.csprojAssemblyReference.cache
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekLib\obj\Debug\UlamekLib.csproj.CoreCompileInputs.cache
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekLib\bin\Debug\UlamekLib.dll
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekLib\bin\Debug\UlamekLib.pdb
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekLib\obj\Debug\UlamekLib.dll
+C:\Users\bartosz.pulczynski\Desktop\ulamek-as-class-stac-w1-master\UlamekLib\obj\Debug\UlamekLib.pdb
